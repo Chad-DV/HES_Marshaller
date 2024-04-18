@@ -1,0 +1,3 @@
+#any later version of paho-mqtt WILL break the script. see release notes 
+paho-mqtt==1.6.1
+mysql-connector-python==8.3.0

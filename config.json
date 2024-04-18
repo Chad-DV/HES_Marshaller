@@ -1,0 +1,25 @@
+{
+    "subscriber": {
+      "host_address": "Broker",
+      "client_id": "client_ID",
+      "username": "mqtt_username",
+      "password": "mqtt_password",
+      "topic": "topic",
+      "port": 8883,
+      "qos":2
+    },
+    "publisher": {
+      "host_address": "broker",
+      "password": "password",
+      "topic": "topic",
+      "port": 8883
+    },
+    "database": {
+      "host": "host",
+      "username": "Your_Username",
+      "password": "Your_Password",
+      "database_name": "Your_Database_Name",
+      "table_name": "Your_Table"
+    }
+  }
+  
